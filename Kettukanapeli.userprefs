@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Kettukanapeli.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GuardPatrol.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GuardPatrol.cs" Line="57" Column="3" />
+      <File FileName="Assets\Scripts\PickChicken.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ThirdPersonCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="8" Column="19" />
+      <File FileName="Assets\Scripts\Vision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CloseSpotted.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

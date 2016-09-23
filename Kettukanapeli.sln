@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kettukanapeli.CSharp.Plugins", "Kettukanapeli.CSharp.Plugins.csproj", "{CCC014A7-2A5C-0093-E897-11EEA9329B74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KettuKanaPeli.CSharp.Plugins", "KettuKanaPeli.CSharp.Plugins.csproj", "{1A13AA96-F3FC-859C-36A2-F7AD86D57F3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kettukanapeli.CSharp", "Kettukanapeli.CSharp.csproj", "{47805EAD-413A-B46A-C596-E544B7AB23EF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KettuKanaPeli.CSharp", "KettuKanaPeli.CSharp.csproj", "{AF0AB932-13A9-E1DF-1ECC-10C3C05B6CCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kettukanapeli.CSharp.Editor", "Kettukanapeli.CSharp.Editor.csproj", "{BCC2477D-6213-5EBE-C9BC-E07CB66F5085}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KettuKanaPeli.CSharp.Editor", "KettuKanaPeli.CSharp.Editor.csproj", "{367DC221-FBBC-EEAF-FB03-5BA20C2EE6A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,18 +13,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CCC014A7-2A5C-0093-E897-11EEA9329B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CCC014A7-2A5C-0093-E897-11EEA9329B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CCC014A7-2A5C-0093-E897-11EEA9329B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CCC014A7-2A5C-0093-E897-11EEA9329B74}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47805EAD-413A-B46A-C596-E544B7AB23EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47805EAD-413A-B46A-C596-E544B7AB23EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47805EAD-413A-B46A-C596-E544B7AB23EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47805EAD-413A-B46A-C596-E544B7AB23EF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BCC2477D-6213-5EBE-C9BC-E07CB66F5085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BCC2477D-6213-5EBE-C9BC-E07CB66F5085}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BCC2477D-6213-5EBE-C9BC-E07CB66F5085}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BCC2477D-6213-5EBE-C9BC-E07CB66F5085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A13AA96-F3FC-859C-36A2-F7AD86D57F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A13AA96-F3FC-859C-36A2-F7AD86D57F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A13AA96-F3FC-859C-36A2-F7AD86D57F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A13AA96-F3FC-859C-36A2-F7AD86D57F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0AB932-13A9-E1DF-1ECC-10C3C05B6CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0AB932-13A9-E1DF-1ECC-10C3C05B6CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0AB932-13A9-E1DF-1ECC-10C3C05B6CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0AB932-13A9-E1DF-1ECC-10C3C05B6CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{367DC221-FBBC-EEAF-FB03-5BA20C2EE6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367DC221-FBBC-EEAF-FB03-5BA20C2EE6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367DC221-FBBC-EEAF-FB03-5BA20C2EE6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367DC221-FBBC-EEAF-FB03-5BA20C2EE6A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

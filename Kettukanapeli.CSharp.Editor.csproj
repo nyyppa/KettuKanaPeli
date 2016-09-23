@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{BCC2477D-6213-5EBE-C9BC-E07CB66F5085}</ProjectGuid>
+    <ProjectGuid>{367DC221-FBBC-EEAF-FB03-5BA20C2EE6A3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -90,13 +90,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Kettukanapeli.CSharp.Plugins.csproj">
-      <Project>{CCC014A7-2A5C-0093-E897-11EEA9329B74}</Project>
-      <Name>Kettukanapeli.CSharp.Plugins</Name>
+    <ProjectReference Include="KettuKanaPeli.CSharp.Plugins.csproj">
+      <Project>{1A13AA96-F3FC-859C-36A2-F7AD86D57F3E}</Project>
+      <Name>KettuKanaPeli.CSharp.Plugins</Name>
     </ProjectReference>
-    <ProjectReference Include="Kettukanapeli.CSharp.csproj">
-      <Project>{47805EAD-413A-B46A-C596-E544B7AB23EF}</Project>
-      <Name>Kettukanapeli.CSharp</Name>
+    <ProjectReference Include="KettuKanaPeli.CSharp.csproj">
+      <Project>{AF0AB932-13A9-E1DF-1ECC-10C3C05B6CCA}</Project>
+      <Name>KettuKanaPeli.CSharp</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
